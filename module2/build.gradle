@@ -9,7 +9,9 @@ android {
     buildToolsVersion "26.0.1"
 
     defaultConfig {
-        applicationId "wl.hgwxr.com.module2"
+        if (isDebug.toBoolean()) {
+            applicationId "wl.hgwxr.com.module2"
+        }
         minSdkVersion 15
         targetSdkVersion 26
         versionCode 1
