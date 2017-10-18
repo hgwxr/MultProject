@@ -48,4 +48,8 @@ public class CommRouter {
             Toast.makeText(BaseMultApplication.mContext,"NOT found Activity",Toast.LENGTH_LONG).show();
         }
     }
+    public void jumpFragment(String path){
+
+
+    }
 }
