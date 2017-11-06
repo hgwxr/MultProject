@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/MultProject.iml" filepath="$PROJECT_DIR$/MultProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/adapterdemo/adapterdemo.iml" filepath="$PROJECT_DIR$/adapterdemo/adapterdemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/commmodule/commmodule.iml" filepath="$PROJECT_DIR$/commmodule/commmodule.iml" />
       <module fileurl="file://$PROJECT_DIR$/module1/module1.iml" filepath="$PROJECT_DIR$/module1/module1.iml" />
